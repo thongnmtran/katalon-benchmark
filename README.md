@@ -1,2 +1,2 @@
-# katalon-benchmark
-Let's Find out what's the fastest way to Test with Katalon!
+## 🚀 Katalon Benchmark
+> *Let's find out what's the **Fastest** way to **Test with Katalon!*** <sup>👨‍🔬</sup>
